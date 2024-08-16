@@ -1,0 +1,51 @@
+.container{
+height: 250px;
+width: 100px;
+border-radius: 30px;
+padding-top: 20px;
+background-color: black;
+margin: 10px;
+text-align: center;
+border-width: 5px;
+margin-left: 250px;
+
+}
+.red{
+  background-color: red;
+  
+}.orange,.green,.red{
+  
+  text-align: center;
+  border-radius:50%;
+  padding-top: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  height: 10px;
+  width: 10px;
+  margin: 20px;
+  margin-top: 5px;
+  
+}
+
+.green{
+  background-color: green;
+  
+}
+.orange{
+  background-color: orange;
+}
+
+.box{
+  padding: 10px;
+  border-radius: 20px;
+  background-color: black;
+width: 1px;
+height: 200px;
+margin-left: 40px;
+
+
+}
+.box1{
+  
+}
